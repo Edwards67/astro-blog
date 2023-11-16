@@ -11,8 +11,8 @@ import { toFeedToJsonUrl, toMediaFormatFromFeed2JsonUrl } from '../utils/media-y
 
 /* The usual stuff...*/
 
-let title = 'Videos & Screencasts';
-let description = 'All the great videos on Astro we could find for ya!'
+let title = 'Videos & Reviews';
+let description = 'All the great videos on the web that we could find for you!'
 
 const response = await fetch(SITE.ytChannelId ? toFeedToJsonUrl(SITE.ytChannelId) : DEFAULT_MEDIA_URL )
 const allPosts = await response.json()

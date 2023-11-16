@@ -1,13 +1,13 @@
 ---
-title: Astro 2.0 - 100% Type-safe MD and MDX Experience
-description: There's a simple secret to building a faster website — just ship less.
+title: Arcade gaming
+description: Different standing arcade gaming.
 tags:
-  - astro
-  - jam-stack
-  - srr
-author: Fred K Schott
-authorTwitter: FredKSchott
-date: "2023-01-25T10:23:31.210Z"
+  - arcade
+  - arcade1
+  - Pac-Man
+author: Chelsea S Edwards
+authorTwitter: Chelsea6518
+date: "2023-09-25T10:23:31.210Z"
 image: https://astro.build/_astro/cover_Z1RYPju.webp
 category: design
 ---
