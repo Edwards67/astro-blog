@@ -1,7 +1,7 @@
 [
     {
         "title": "Thoughts on Arcade1UP",
-        "description": "mmmm",
+        "description": "A more in depth review of the Arcade1UP",
         "url": "https://www.youtube.com/watch?v=OEC13gqSNXg",
         "host": "Scott's Stash",
         "participants": ["Scott Wozniak"],
@@ -9,7 +9,7 @@
     },
     {
         "title": "The Ultimate Arcade1UP Review!",
-        "description": "mmmm",
+        "description": "Pros and Cons of the cabinet Arcade1UP systems",
         "url": "https://www.youtube.com/watch?v=QqtjSoWrQas",
         "host": "TheQuartering",
         "participants": [],
@@ -17,17 +17,33 @@
     },
     {
         "title": "NES Classic Edition Review",
-        "description": "Astro is an open-source tool that can build static HTML websites using popular frontend JavaScript frameworks (React, Vue, Svelte), while loading fully interactive components as needed https://github.com/snowpackjs/astro",
+        "description": "Quick review of the Nintendo Entertainment System(NES)",
         "url": "https://www.youtube.com/watch?v=-hoPmItkaL4",
         "host": "IGN",
         "participants": [],
         "date": "2016-11-03"
     },
     {
-        "title": "Yapping About Astro",
-        "description": "Build a static-by-default site using JavaScript components and only load whatever JavaScript you need by opting in very carefully.",
-        "url": "https://www.youtube.com/watch?v=3jPaidbpUIA",
-        "host": "Chris Coyier",
+        "title": "Mini NES With Over 100k Games From Amazon",
+        "description": "NES pre-programmed console with over 100,000 games!",
+        "url": "https://www.youtube.com/watch?v=Jk-jnH6muRg",
+        "host": "Madlittlepixel",
+        "participants": [],
+        "date": "2021-08-07"
+    }
+    {
+        "title": "Atari VCS Console",
+        "description": "Atari console that could play old school games and mods that it can do",
+        "url": "https://www.youtube.com/watch?v=6Q7DP4BouzT4",
+        "host": "ShortCircuit",
+        "participants": [],
+        "date": "2021-06-10"
+    }
+    {
+        "title": "Atari Gamestation Pro Overview & Thoughts",
+        "description": "Atari game review",
+        "url": "https://www.youtube.com/watch?v=Jk-jZtJtDznRxtI",
+        "host": "The Atari Network",
         "participants": [],
         "date": "2021-08-07"
     }
