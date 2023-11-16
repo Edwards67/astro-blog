@@ -12,16 +12,16 @@
         "description": "mmmm",
         "url": "https://www.youtube.com/watch?v=QqtjSoWrQas",
         "host": "TheQuartering",
-        "participants": ["The Quartering"],
+        "participants": [],
         "date": "2020-03-26"
     },
     {
-        "title": "Astro in 100 Seconds",
+        "title": "NES Classic Edition Review",
         "description": "Astro is an open-source tool that can build static HTML websites using popular frontend JavaScript frameworks (React, Vue, Svelte), while loading fully interactive components as needed https://github.com/snowpackjs/astro",
-        "url": "https://www.youtube.com/watch?v=dsTXcSeAZq8",
-        "host": "Jeff Delaney",
+        "url": "https://www.youtube.com/watch?v=-hoPmItkaL4",
+        "host": "IGN",
         "participants": [],
-        "date": "2021-07-12"
+        "date": "2016-11-03"
     },
     {
         "title": "Yapping About Astro",

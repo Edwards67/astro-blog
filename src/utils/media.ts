@@ -1,4 +1,4 @@
-export const DEFAULT_MEDIA_URL = 'https://raw.githubusercontent.com/one-aalam/astro-ink/main/src/data/astro-media.json'
+export const DEFAULT_MEDIA_URL = 'https://raw.githubusercontent.com/Edwards67/astro-blog/main/src/data/astro-media.json'
 
 export type MediaExternallyHostedVideo = {
     title: string
