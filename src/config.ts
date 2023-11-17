@@ -29,7 +29,7 @@ export const SITE = {
     title: 'Retro Blog!',
     description: 'Finding great places for old style gaming',
     url: 'https://astro-ink.vercel.app',
-    githubUrl: 'https://github.com/one-aalam/astro-ink',
+    githubUrl: 'https://github.com/Edwards67',
     listDrafts: true,
     image: 'https://raw.githubusercontent.com/one-aalam/astro-ink/main/public/astro-banner.png',
     // YT video channel Id (used in media.astro)
